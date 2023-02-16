@@ -1,0 +1,330 @@
+D:\Ankita\Ratings\bin\Debug\net6.0\appsettings.Development.json
+D:\Ankita\Ratings\bin\Debug\net6.0\appsettings.json
+D:\Ankita\Ratings\bin\Debug\net6.0\Ratings.exe
+D:\Ankita\Ratings\bin\Debug\net6.0\Ratings.deps.json
+D:\Ankita\Ratings\bin\Debug\net6.0\Ratings.runtimeconfig.json
+D:\Ankita\Ratings\bin\Debug\net6.0\Ratings.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Ratings.pdb
+D:\Ankita\Ratings\bin\Debug\net6.0\Humanizer.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.csproj.AssemblyReference.cache
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfoInputs.cache
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfo.cs
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.csproj.CoreCompileInputs.cache
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cs
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cache
+D:\Ankita\Ratings\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ankita\Ratings\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ankita\Ratings\obj\Debug\net6.0\scopedcss\bundle\Ratings.styles.css
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.csproj.CopyComplete
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.dll
+D:\Ankita\Ratings\obj\Debug\net6.0\refint\Ratings.dll
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.pdb
+D:\Ankita\Ratings\obj\Debug\net6.0\Ratings.genruntimeconfig.cache
+D:\Ankita\Ratings\obj\Debug\net6.0\ref\Ratings.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ankita\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\appsettings.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Ratings.exe
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Ratings.deps.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Ratings.runtimeconfig.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Ratings.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Ratings.pdb
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Humanizer.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.csproj.AssemblyReference.cache
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfoInputs.cache
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfo.cs
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.csproj.CoreCompileInputs.cache
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\scopedcss\bundle\Ratings.styles.css
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.csproj.CopyComplete
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\refint\Ratings.dll
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.pdb
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\Ratings.genruntimeconfig.cache
+C:\Users\apurav_bhaskar\Downloads\Ratings\Ratings\obj\Debug\net6.0\ref\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Ratings.exe
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Ratings.deps.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Ratings.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.Ratings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.build.Ratings.props
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ratings.props
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ratings.props
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\scopedcss\bundle\Ratings.styles.css
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\refint\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\Ratings.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Backend\Ratings\obj\Debug\net6.0\ref\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Ratings.exe
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Ratings.deps.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Ratings.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.Ratings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.build.Ratings.props
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ratings.props
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ratings.props
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\scopedcss\bundle\Ratings.styles.css
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\refint\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\Ratings.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Dummy\Ratings\obj\Debug\net6.0\ref\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Ratings.exe
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Ratings.deps.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Ratings.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.Ratings.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.build.Ratings.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ratings.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ratings.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\scopedcss\bundle\Ratings.styles.css
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\refint\Ratings.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\Ratings.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\Ratings\obj\Debug\net6.0\ref\Ratings.dll

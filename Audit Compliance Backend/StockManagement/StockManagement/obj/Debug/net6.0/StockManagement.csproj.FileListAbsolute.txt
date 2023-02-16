@@ -1,0 +1,392 @@
+D:\coreApi\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\coreApi\StockManagement\bin\Debug\net6.0\appsettings.json
+D:\coreApi\StockManagement\bin\Debug\net6.0\StockManagement.exe
+D:\coreApi\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+D:\coreApi\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+D:\coreApi\StockManagement\bin\Debug\net6.0\StockManagement.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\coreApi\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\coreApi\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\coreApi\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.dll
+D:\coreApi\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+D:\coreApi\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+D:\coreApi\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Humanizer.dll
+D:\coreApi\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\apurav_bhaskar\Downloads\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.StockManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Backend\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.StockManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.StockManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Dummy\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.exe
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.StockManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\scopedcss\bundle\StockManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\refint\StockManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\StockManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\StockManagement\StockManagement\obj\Debug\net6.0\ref\StockManagement.dll

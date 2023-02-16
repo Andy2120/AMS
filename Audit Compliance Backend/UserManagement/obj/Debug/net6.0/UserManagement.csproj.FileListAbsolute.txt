@@ -1,0 +1,430 @@
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\appsettings.json
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.exe
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Azure.Core.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Azure.Identity.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.CodeDom.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Text.Json.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\scopedcss\bundle\UserManagement.styles.css
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CopyComplete
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.dll
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+D:\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\UserManagement.exe
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.UserManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\scopedcss\bundle\UserManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Backend\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.exe
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.UserManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\scopedcss\bundle\UserManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance System\Backend\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\UserManagement.exe
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.UserManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\scopedcss\bundle\UserManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Dummy\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\UserManagement.exe
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\UserManagement.runtimeconfig.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.UserManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagement.props
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\scopedcss\bundle\UserManagement.styles.css
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CopyComplete
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\UserManagement.genruntimeconfig.cache
+C:\Users\aniket_patil6\Desktop\Audit Compliance Backend\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
